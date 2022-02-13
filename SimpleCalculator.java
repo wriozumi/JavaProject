@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * @name        Simple Java Calculator
  * @package     ph.calculator
- * @file        calc.java
+ * @file        SimpleCalculator.java 
  * @author      nazar
  */
 public class SimpleCalculator {
